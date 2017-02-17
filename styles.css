@@ -1,0 +1,16 @@
+html, body {
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+}
+
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    display: inline-block;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 16px;
+    padding: 10%;
+    text-align: center;
+    text-decoration: none;
+}
